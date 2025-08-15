@@ -42,7 +42,7 @@ curl -sSL https://raw.githubusercontent.com/DeiTsukiii/you-spelled-it-wrong/refs
   You spelled it wrong.
   deitsuki@deitsukis-pc:~$ gitt
   bash: gitt: command not found...
-  Did you mean git?
+  Did you mean 'git'?
   deitsuki@deitsukis-pc:~$ dvnzdnczencozencjdnczj
   bash: dvnzdnczencozencjdnczj: command not found...
   ```
