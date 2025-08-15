@@ -35,7 +35,7 @@ PY
 )
         echo "bash: $1: command not found..."
         if [ -n "$suggestion" ]; then
-            echo "Did you mean $suggestion?"
+            echo "Did you mean '$suggestion'?"
         fi
     fi
 }
