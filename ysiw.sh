@@ -33,7 +33,7 @@ matches = difflib.get_close_matches("$1", cmds, n=1, cutoff=0.6)
 print(matches[0] if matches else "")
 PY
 )
-        echo "bash: $1: command not found"
+        echo "bash: $1: command not found..."
         if [ -n "$suggestion" ]; then
             echo "Did you mean $suggestion?"
         fi
