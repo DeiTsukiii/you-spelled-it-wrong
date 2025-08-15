@@ -3,6 +3,12 @@ Auto-corrects typos in the terminal
 
 ---
 
+## Dependencies
+
+You need Python3
+
+---
+
 ## Installation
 
 ```bash
